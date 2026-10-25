@@ -1,4 +1,4 @@
-# EXP-3
+1#4000 EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
